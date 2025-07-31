@@ -10,17 +10,17 @@ My projects are inspired by open learning resources like *Data with Baraa*, whic
 
 You’ll find work across the full analytics stack:
 
-- 🗃️ **SQL Data Warehousing**  *(in progress)*
+- 🗃️ **SQL Data Warehousing**
   ETL pipeline design, dimensional modeling, query optimization — simulating real production environments
+  
+ - 🧹 **Exploratory Data Analysis (SQL)** *(in progress)*  
+  Data cleaning, profiling, and early-stage exploration using SQL
 
 - 📈 **Advanced SQL Analytics**  *(coming soon)*
   Segmentation, performance metrics, trend analysis, and operational insights
 
 - 📊 **Tableau Dashboards**  *(coming soon)*
   Visual storytelling for HR and sales use cases — focused on clean logic and communication
-
-- 🧹 **Exploratory Data Analysis (EDA)** *(coming soon)*  
-  Data cleaning, profiling, and early-stage exploration using Python and open datasets
 
 - ⚙️ **Personal Engineering Projects** *(coming soon)*  
   Custom experiments inspired by instrumentation logs, QA metrics, and multilingual applications
