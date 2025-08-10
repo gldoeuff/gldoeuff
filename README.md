@@ -13,11 +13,11 @@ You’ll find work across the full analytics stack:
 - 🗃️ **SQL Data Warehousing**
   ETL pipeline design, dimensional modeling, query optimization — simulating real production environments
 
-- 📈 **Advanced SQL Analytics**  *(in progress)*
+- 📈 **Advanced SQL Analytics** 
   Segmentation, performance metrics, trend analysis, and operational insights
   
-- 🧹 **Exploratory Data Analysis (EDA)** *(coming soon)*  
-  Data cleaning, profiling, and early-stage exploration using Python and open datasets
+- 🧹 **Exploratory Data Analysis (EDA)**
+  Data cleaning, profiling, and early-stage exploration using SQL and open datasets
 
 - 📊 **Tableau Dashboards**  *(coming soon)*
   Visual storytelling for HR and sales use cases — focused on clean logic and communication
